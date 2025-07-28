@@ -10,4 +10,5 @@ Covers current weather, forecast for 7 days, and validation of response structur
 - Postman  
 - JavaScript (for test scripts)
 ## Screenshot
-![Uploading WeatherApi screenshot.PNG…]()
+<img width="870" height="414" alt="Weather Api22" src="https://github.com/user-attachments/assets/a70fe3ef-595d-4950-8fd4-7c612cfad537" />
+
